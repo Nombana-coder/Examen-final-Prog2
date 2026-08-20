@@ -1,4 +1,4 @@
-package org.example.examenfinalprog2.model;
+package com.example.model;
 
 public enum ExpenseFrequency {
     NONE,
